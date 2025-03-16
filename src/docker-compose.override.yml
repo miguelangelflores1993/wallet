@@ -1,0 +1,66 @@
+
+services:
+  historydb:
+    container_name: historydb
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=HistoryDb
+    restart: always
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_history:/var/lib/postgresql/data/ 
+
+
+  walletdb:
+    container_name: walletdb
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=SwN12345678
+    restart: always
+    platform: linux/amd64
+    ports:
+      - "1433:1433"
+
+  messagebroker:
+    container_name: messagebroker
+    hostname: ecommerce-mq
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    restart: always
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+  
+  wallet.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ConnectionStrings__Database=Server=walletdb;Database=Walletdb;User Id=sa;Password=SwN12345678;Encrypt=False;TrustServerCertificate=True
+      - MessageBroker__Host=amqp://ecommerce-mq:5672
+      - MessageBroker__UserName=guest
+      - MessageBroker__Password=guest
+      - FeatureManagement__OrderFullfilment=false
+    depends_on:
+      - walletdb
+      - messagebroker
+    ports:
+      - "6003:8080" # Solo HTTP
+    volumes:
+      - $HOME/Library/Application Support/Microsoft:/home/app/.microsoft/usersecrets:ro
+      - $HOME/Library/Application Support/ASP.NET/Https:/home/app/.aspnet/https:ro
+
+  yarpapigateway:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+    depends_on:
+      - wallet.api
+    ports:
+      - "6004:8080" # Solo HTTP
+    volumes:
+      - $HOME/Library/Application Support/Microsoft:/home/app/.microsoft/usersecrets:ro
+      - $HOME/Library/Application Support/ASP.NET/Https:/home/app/.aspnet/https:ro
+

@@ -1,0 +1,11 @@
+﻿global using Wallet.Domain.Models;
+global using Wallet.Domain.ValueObjects;
+global using BuildingBlocks.CQRS;
+global using Wallet.Application.Data;
+global using Wallet.Application.Dtos;
+global using Wallet.Application.Exceptions;
+global using MediatR;
+global using Microsoft.Extensions.Logging;
+global using Wallet.Domain.Events;
+global using Microsoft.EntityFrameworkCore;
+global using Wallet.Application.Extensions;

@@ -1,0 +1,13 @@
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/bin/Debug/net8.0/Wallet.Domain.deps.json
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/bin/Debug/net8.0/Wallet.Domain.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/bin/Debug/net8.0/Wallet.Domain.pdb
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/Wallet.Domain.csproj.AssemblyReference.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/Wallet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/Wallet.Domain.AssemblyInfoInputs.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/Wallet.Domain.AssemblyInfo.cs
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/Wallet.Domain.csproj.CoreCompileInputs.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/Wallet.Domain.sourcelink.json
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/Wallet.Domain.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/refint/Wallet.Domain.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/Wallet.Domain.pdb
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/Services/Wallet/Wallet.Domain/obj/Debug/net8.0/ref/Wallet.Domain.dll

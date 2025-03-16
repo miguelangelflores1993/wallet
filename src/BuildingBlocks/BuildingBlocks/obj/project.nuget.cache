@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "vDKCw0PHtyU=",
+  "success": true,
+  "projectFilePath": "/Users/miguelangel/wallet/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "/Users/miguelangel/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.caching.abstractions/2.1.2/microsoft.extensions.caching.abstractions.2.1.2.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.caching.memory/2.1.23/microsoft.extensions.caching.memory.2.1.23.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.configuration/2.1.1/microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.1/microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.configuration.binder/2.1.10/microsoft.extensions.configuration.binder.2.1.10.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.logging/2.1.1/microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.options/2.1.1/microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.extensions.primitives/2.1.1/microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.featuremanagement/3.2.0/microsoft.featuremanagement.3.2.0.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/microsoft.featuremanagement.aspnetcore/3.2.0/microsoft.featuremanagement.aspnetcore.3.2.0.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/miguelangel/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/miguelangel/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
+    }
+  ]
+}

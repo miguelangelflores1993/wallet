@@ -1,0 +1,13 @@
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/bin/Debug/net8.0/BuildingBlocks.Messaging.deps.json
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/bin/Debug/net8.0/BuildingBlocks.Messaging.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/bin/Debug/net8.0/BuildingBlocks.Messaging.pdb
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/BuildingBlocks.Messaging.csproj.AssemblyReference.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/BuildingBlocks.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/BuildingBlocks.Messaging.AssemblyInfoInputs.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/BuildingBlocks.Messaging.AssemblyInfo.cs
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/BuildingBlocks.Messaging.csproj.CoreCompileInputs.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/BuildingBlocks.Messaging.sourcelink.json
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/BuildingBlocks.Messaging.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/refint/BuildingBlocks.Messaging.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/BuildingBlocks.Messaging.pdb
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks.Messaging/obj/Debug/net8.0/ref/BuildingBlocks.Messaging.dll

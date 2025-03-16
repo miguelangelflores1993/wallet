@@ -1,0 +1,24 @@
+services:
+  historydb:
+    image: postgres
+
+  walletdb:
+    image: mcr.microsoft.com/mssql/server
+  messagebroker:
+    image: rabbitmq:management
+
+  wallet.api:
+    build:
+      context: .
+      dockerfile: Services/Wallet/Wallet.API/Dockerfile
+
+  yarpapigateway:
+    build:
+      context: .
+      dockerfile: ApiGateways/YarpApiGateway/Dockerfile
+volumes:
+  postgres_history:
+
+
+
+

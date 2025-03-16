@@ -1,0 +1,13 @@
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.deps.json
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.pdb
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.AssemblyReference.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfo.cs
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.sourcelink.json
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/refint/BuildingBlocks.dll
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.pdb
+/Users/miguelangel/PROYECTOS/run-aspnetcore-microservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/ref/BuildingBlocks.dll
